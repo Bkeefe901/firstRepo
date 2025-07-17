@@ -1,8 +1,7 @@
 # Command Line Commands
-- '''pwd''' - present working directory
-- '''ls''' - list of all directories present from pwd
-- '''cd''' - change directory, move to another folder
-- '''cd ..''' - go back to previous directory
+- ```pwd``` - present working directory
+- ```ls``` - list of all directories present from pwd
+- ```cd``` - change directory, move to another folder
 - ```clear``` - clears terminal, ( also ctrl + l )
 - ```mkdir <foldername>``` - make a new folder with that name
 - ```code .``` - open current directory in VSC
